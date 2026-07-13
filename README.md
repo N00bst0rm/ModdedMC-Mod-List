@@ -1,5 +1,5 @@
 # ModdedMC Mod List
-Mod list for the ModdedMC Bear Committee Server. Required are the mods that you are required to have in order to join the server. Clientside are mods that are optional, but highly recommended as they involve quality of life, visual, and performance tweaks. Serverside are mods installed only on the server; don't worry about those.
+Mod list for the ModdedMC Bear Committee Server. Required are the mods that you are required to have in order to join the server. Clientside are mods that are optional, but highly recommended as they involve quality of life, visual, and performance tweaks. Serverside are other mods installed on the server; don't worry about those.
 # Download Instructions
 First, ensure you have NeoForge for 1.21.1 installed. Then, click the "Required and Optional Mods" link on the right, under "Releases." Click "required.zip" for only the required mods, click "clientside.zip" for optional clientside mods.
 # Install Instructions
