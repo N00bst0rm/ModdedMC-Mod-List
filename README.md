@@ -4,3 +4,5 @@ Mod list for the ModdedMC Bear Committee Server. Required are the mods that you 
 First, ensure you have NeoForge for 1.21.1 installed. Then, click the "Required and Optional Mods" link on the right, under "Releases." Click "required.zip" for only the required mods, click "clientside.zip" for optional clientside mods.
 # Install Instructions
 Figure it out
+# NOTE
+Modpack is known to work on NeoForge 1.21.234 and 1.21.235. If your game is crashing, try this first.
