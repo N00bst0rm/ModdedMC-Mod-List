@@ -5,4 +5,4 @@ First, ensure you have NeoForge for 1.21.1 installed. Then, click the "Required 
 # Install Instructions
 Figure it out
 # ! NOTE !
-Modpack is known to work on NeoForge 21.1.234 and 21.1.235. If your game is crashing, try this first.
+Modpack is known to work on NeoForge 21.1.234 and 21.1.235. If your game is crashing, try these versions first.
